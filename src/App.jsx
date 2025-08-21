@@ -6,6 +6,7 @@ import About from "./pages/About"
 const App = () => {
   return (
    <>
+     <h1>Hello</h1>
       <Header />
       {/* <Home/> */}
       <About/>
